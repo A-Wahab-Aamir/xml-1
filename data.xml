@@ -1,0 +1,26 @@
+<student_record>
+
+<student>
+<id>1</id>
+<name>Jamaal Khaliq</name>
+<class>Muhammad Kahliq</class>
+<contact>0311-293456</contact>
+</student>
+
+
+<student>
+<id>2</id>
+<name>Asma Maliq</name>
+<class>Muhammad Maliq</class>
+<contact>0311-982345</contact>
+</student>
+
+<student>
+    <id>3</id>
+    <name>Muhmmad Hamza</name>
+    <class>Khan Ilahi</class>
+    <contact>0312-456575</contact>
+</student>
+
+
+</student_record>
